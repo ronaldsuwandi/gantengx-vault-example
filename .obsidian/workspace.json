@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "60f8d76f6c95c03f",
+        "id": "cc55b2122db6ece2",
         "type": "tabs",
         "children": [
           {
-            "id": "bdfa3adc1d0926df",
+            "id": "f1c0695101d12e96",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Draft - My Obsidian setup.md",
+                "file": "🏡 Home.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,35 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Draft - My Obsidian setup"
-            }
-          },
-          {
-            "id": "d6774cc959277f76",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "README"
+              "title": "🏡 Home"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -202,12 +177,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "🏡 Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from README"
+              "title": "Outgoing links from 🏡 Home"
             }
           },
           {
@@ -240,14 +215,19 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "d6774cc959277f76",
+  "active": "f1c0695101d12e96",
   "lastOpenFiles": [
-    "LICENSE",
+    "Post - The Obsidian setup behind the system.md",
+    "2026-03-01.md",
+    "Post - The PKM Setup I Settled On After Many Iterations.md",
+    "Post - How I Capture Notes Using the 4 Bucket System.md",
     "🏡 Home.md",
+    "Attachments/Example of 4 bucket system note.png",
     "README.md",
+    "Attachments/Bases-demo.gif",
+    "LICENSE",
     "NTP drift.md",
     "Attachments/Home.png",
-    "Draft - My Obsidian setup.md",
     "CLAUDE.md",
     "NTP root dispersion.md",
     "Idea - Kids Health Tracker.md",
@@ -274,9 +254,6 @@
     "♟️ Chess.md",
     "📚 Topics.md",
     "ACME - Engagement - Initech.md",
-    "Log - Health - 2026-01-27 - Child 1 - Stomachache.md",
-    "Ownership concept.md",
-    "Attachments/Example of 4 bucket system note.png",
     "Attachments/Pasted image 20260216155431.png",
     "Attachments/Pasted image 20260216155412.png",
     "Attachments/55fdc4bff88c2a5e7bb8910d11a3fb8d.png",
@@ -286,8 +263,6 @@
     "Daily Notes",
     "Attachments/1a9e8d97f7c425b901862486f7ce5af9.png",
     "50-59 Knowledge & Research/51 Course/51 01 Technical/Technical Notes 2ff3640af06140f792324085185e6e7d/AWS Certified Developer - Associate 690c4b6e25c640c89c1de7958780458b/Untitled 9.png",
-    "50-59 Knowledge & Research/51 Course/51 01 Technical/Technical Notes 2ff3640af06140f792324085185e6e7d/AWS Certified Developer - Associate 690c4b6e25c640c89c1de7958780458b/Untitled.png",
-    "Attachments/F2975D19-0A55-4535-88F3-B25E9ED31046_1_201_a.heic",
     "Next Career Move Brainstorm.canvas",
     "Idea - WFO - Brainstorm.canvas",
     "test.canvas",

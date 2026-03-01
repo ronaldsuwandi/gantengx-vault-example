@@ -1,6 +1,6 @@
 # Obsidian Vault Example
 
-This is the example vault from my PKM blog series: a curated subset of my real Obsidian vault so you can download it and explore the system in practice.
+This is the example vault from my [PKM blog series](#the-series): a curated subset of my real Obsidian vault so you can download it and explore the system in practice.
 
 ![Home screen](./Attachments/Home.png)
 ## Getting started
@@ -60,3 +60,9 @@ https://github.com/user-attachments/assets/07c05602-678e-44d9-9573-8692ddde81ed
 ## On broken links
 
 Many links here point to files that don't exist in this vault. That's intentional as this is a subset of a much larger vault. The broken links give a realistic sense of how the system scales in practice. The working clusters (NTP, Kafka, Rust, Chess, ACME) show how notes actually connect.
+
+## The series
+
+- Part 1: [The PKM Setup I Settled On After Many Iterations](https://medium.com/@ronaldsuwandi/the-pkm-setup-i-settled-on-after-many-iterations-af53ce7507ac)
+- Part 2: [How I Capture Notes Using the 4 Bucket System](https://ronaldsuwandi.medium.com/how-i-capture-notes-using-the-4-bucket-system-afdaba082097)
+- Part 3: [The Obsidian setup behind the system](https://ronaldsuwandi.medium.com/the-obsidian-setup-behind-the-system-d01b314ffa13)
