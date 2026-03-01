@@ -10,8 +10,6 @@ The system I use for note-taking today is a combination of [PARA](https://fortel
 
 Fair warning: none of this is groundbreaking. It's just a mix-and-match of various frameworks that eventually clicked. If you've ever spent more time setting up your system rather than actually using it, this might resonate.
 
-Update: 
-
 ## TL;DR
 
 The main idea of the system is that notes are generally grouped to seven types:
@@ -100,4 +98,4 @@ The thing that made the most practical difference: I write notes for myself, not
 
 ---
 
-_This is part 1 of a 3-part series._ [_Part 2_](https://ronaldsuwandi.medium.com/the-pkm-setup-i-settled-on-after-many-iterations-af53ce7507ac) _covered how I capture notes. Part 3 will cover the Obsidian setup.
+*This is part 1 of a 3-part series. [[Post - How I Capture Notes Using the 4 Bucket System|Part 2]] covered how I capture notes. [[Post - The Obsidian setup behind the system|Part 3]] covered the Obsidian setup.*

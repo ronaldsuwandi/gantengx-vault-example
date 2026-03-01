@@ -24,13 +24,11 @@ The 4 bucket system comes from [Steve Huynh on LinkedIn](https://www.linkedin.co
 ![[Example of 4 bucket system note.png]]
 
 ## The pause is the point
-
 When capturing, don't just write down everything you hear. Categorising forces you to ask: is this a fact, or does it explain something? That moment of judgment is where the actual thinking happens.
 
 The result is notes that are already partially processed. When you come back to them, you're not re-reading a raw transcript. You're reading organised understanding.
 
 ## Where it works well
-
 - **Meeting and sync-up notes**: especially project updates where you're capturing status, decisions, and open questions at the same time
 - **Inbox capture**: quick notes that need processing later. The structure makes processing faster because you've already categorised what matters
 - **Training and workshops**: if the scope fits in a single note. Short course? Treat it like an extended meeting and apply four buckets throughout
@@ -39,7 +37,6 @@ The result is notes that are already partially processed. When you come back to 
 For project updates specifically, I use a hub-and-spoke pattern: the main note captures the **latest state** with four buckets, and any in-depth detail lives in a separate linked note. I also have an embedded logs section where I capture logs/decisions for reference.
 
 ## Where it breaks down
-
 Personally I feel the four bucket system doesn't work on these types of notes:
 - Large permanent/deep technical notes or MOC notes (e.g. deep dive into Kafka, deep dive into Polish openings in chess, etc)
 - Longer training/course
@@ -49,11 +46,9 @@ Personally I feel the four bucket system doesn't work on these types of notes:
 The 4-bucket system optimises for categorisation whereas technical learning needs narrative flow and connected understanding.
 
 ## The blurred lines between sections
-
 One of the most problematic parts is that bucket boundaries aren't always clear. Two cases come up regularly.
 
 ### Facts vs Conceptual
-
 In the case of Kafka, for example:
 - Facts
 	- Kafka uses pub-sub model
@@ -70,7 +65,6 @@ Now all the points in the conceptual section are in fact "facts". Take the first
 Rule of thumb: Facts = individual bricks. Conceptual = how those bricks fit together and what they build. If it **explains tradeoffs, design principles, behaviours**, it's conceptual.
 
 ### Facts vs Procedural
-
 The following example is a note I captured during a meeting: "Order ID rendering is broken. Convert it into HEX and take out the last 8 digits and append colon".
 
 These can be approached 2 ways:
@@ -89,4 +83,4 @@ For working notes, option 2 is almost always the right call. Option 1 is worth i
 
 ---
 
-*This is part 2 of a 3-part series. [[Post - The PKM Setup I Settled On After Many Iterations|Part 1]] covered the overall system for organising notes. Part 3 will cover the Obsidian setup.*
+*This is part 2 of a 3-part series. [[Post - The PKM Setup I Settled On After Many Iterations|Part 1]] covered the overall system for organising notes. [[Post - The Obsidian setup behind the system|Part3]] covered the Obsidian setup.*

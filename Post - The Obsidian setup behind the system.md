@@ -75,4 +75,4 @@ The full vault is [on GitHub](https://github.com/ronaldsuwandi/gantengx-vault-ex
 
 ---
 
-_This is part 3 of a 3-part series. [Part 1](add link) covered the PKM system. [Part 2](add link) covered note capturing._
+*This is part 3 of a 3-part series. [[Post - The PKM Setup I Settled On After Many Iterations|Part 1]] covered the PKM system. [[Post - How I Capture Notes Using the 4 Bucket System|Part 2]] covered how I capture notes*
