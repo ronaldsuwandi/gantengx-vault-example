@@ -1,0 +1,8 @@
+{
+  "whiteSquareColor": "#f0d9b5",
+  "blackSquareColor": "#b58862",
+  "whitePieceColor": "#ffffff",
+  "blackPieceColor": "#000000",
+  "boardWidthPx": 320,
+  "orientation": "white"
+}

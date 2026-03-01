@@ -1,0 +1,14 @@
+{
+  "cssTheme": "Minimal",
+  "theme": "moonstone",
+  "textFontFamily": "Avenir",
+  "monospaceFontFamily": "DejaVu Sans Mono,Menlo",
+  "baseFontSize": 17,
+  "enabledCssSnippets": [
+    "minimal-snippet"
+  ],
+  "translucency": false,
+  "accentColor": "#f55c5c",
+  "showViewHeader": false,
+  "showRibbon": false
+}

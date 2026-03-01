@@ -1,0 +1,6 @@
+- [[ChatGPT]]
+- [[Course - ChatGPT Prompt Engineering for Developers]]
+- [[Course - Multi AI Agent Systems with crewAI]]
+- [[Course - Agent Skills with Anthropic]]
+- [[Course - Generative AI with LLM]]
+- [[LLM Preferences]]

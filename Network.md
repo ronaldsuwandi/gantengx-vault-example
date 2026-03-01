@@ -1,0 +1,2 @@
+- [[5 seconds delay latency is typically due to DNS]]
+- [[Check if port is open and open ports]]

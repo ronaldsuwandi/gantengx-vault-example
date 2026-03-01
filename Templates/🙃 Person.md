@@ -1,0 +1,3 @@
+
+## Logs
+- [[Log - People - {{VALUE}}]]

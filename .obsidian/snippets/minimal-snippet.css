@@ -1,0 +1,46 @@
+/* better contrast for status-bar */
+.status-bar {
+    color: var(--tx2);
+}
+
+/* better contrast for status bar (sync button) */
+:is(.theme-light, .theme-dark) :is(.sync-status-icon.mod-success, .sync-status-icon.mod-working) {
+    color: var(--tx2);
+}
+
+/* add a blinking highlight animation when syncing */
+:is(.theme-light, .theme-dark) .sync-status-icon.mod-working {
+    animation: color 0.25s infinite linear alternate;
+}
+
+/* use red color for failed sync */
+:is(.theme-light, .theme-dark) .sync-status-icon.mod-error {
+    color: var(--color-red);
+}
+
+@keyframes color {
+    from {
+        color: var(--tx2);
+    }
+
+    to {
+        color: var(--ui3);
+        filter: drop-shadow(0 0 0.2px var(--ui3));
+    }
+}
+
+/* dim editor that is not in focus useful for multiple tabs/panes */
+.workspace-leaf:not(.mod-active) .cm-editor {
+    /*background-color: color-mix(in srgb, var(--bg2) 100%, var(--bg1) 80%);*/
+    background-color: var(--bg1);
+    --active-line-bg: rgba(0, 0, 0, 0);
+    transition: background-color 0.1s;
+}
+
+/* specific for my use case - make image to be block display and always centered */
+.internal-embed img:not([width]),
+.internal-embed audio,
+.internal-embed video {
+    display: block;
+    margin: auto;
+}

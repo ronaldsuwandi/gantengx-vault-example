@@ -1,0 +1,1 @@
+As described in [[ACME - Globex DNS Latency Issue]], if you encounter delay every now and then and it is **precisely 5 seconds**. It's highly likely that this is DNS issue because by default Linux has a 5 seconds constant or multiple of 5 seconds timeout for DNS

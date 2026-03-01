@@ -1,0 +1,15 @@
+{
+  "folderName": "/",
+  "fileNames": [],
+  "existingSymbol": "",
+  "replacePattern": "",
+  "regExpState": {
+    "regExp": "20\\d\\d-\\d\\d-\\d\\d.md",
+    "flags": [
+      "g"
+    ],
+    "withRegExpForReplaceSymbols": true
+  },
+  "tags": [],
+  "viewType": "regexp"
+}
