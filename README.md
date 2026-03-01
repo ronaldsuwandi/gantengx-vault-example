@@ -15,6 +15,8 @@ Clone or download the repo, then open the folder as a vault in Obsidian (File â†
 
 **`Post - The PKM Setup I Settled On After Many Iterations.md`** is the published version of that same content. Comparing the two is a live example of one of the core principles: write notes for yourself first, rewrite to publish. The metadata block at the top of the post (Date, Published, Subtitle, SEO Description, Tags) is a personal workflow reference. The fields I fill in as part of my publishing process and not used for querying in Obsidian.
 
+https://github.com/user-attachments/assets/603a9c96-0e90-4db1-88ca-4589c38d779c
+
 ## What this vault demonstrates
 
 ### System and navigation
@@ -33,6 +35,8 @@ Clone or download the repo, then open the folder as a vault in Obsidian (File â†
 
 **Company-prefixed notes:** `ACME.md` is a company MOC linking to engagement notes, references, and admin notes. `ACME - Engagement - Initech.md` shows the 4-bucket format (Facts, Procedural, Conceptual, Questions) applied to a client engagement, with an embedded log. `ACME - Work Logs.md` shows a living document capturing multiple engagements in one place.
 
+https://github.com/user-attachments/assets/1a192f74-ba55-4279-8387-bd4112c5f409
+
 **Health log:** `Log - Health - 2026-01-03 - Child 1 - Fever.md` demonstrates the naming convention for date-based logs. The `ðŸ“‹ Kids Health Log.md` is the MOC that aggregates them.
 
 **LLM context storage:** `LLM Preferences.md` shows storing a personal context prompt directly in the vault. Available to paste into any LLM session without re-explaining yourself every time.
@@ -50,6 +54,8 @@ All 8 templates are in `/Templates`. They demonstrate the minimal template philo
 ### Daily notes
 
 `Daily Notes/` contains date-named files that are intentionally empty. Empty = processed. Non-empty = unprocessed inbox items that show up in `ðŸ“¥ Inbox.md`. The inbox is not a read-later list as it must be drained. `ðŸ“¥ Inbox.md` uses Bases (Obsidian's native querying feature) to surface these replacing Dataview, which I dropped to reduce third-party plugin overhead.
+
+https://github.com/user-attachments/assets/07c05602-678e-44d9-9573-8692ddde81ed
 
 ## On broken links
 
