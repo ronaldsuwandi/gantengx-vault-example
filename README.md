@@ -43,6 +43,10 @@ https://github.com/user-attachments/assets/1a192f74-ba55-4279-8387-bd4112c5f409
 
 **Redirect note:** `44 Ideas.md` contains a single line pointing to `💡 Ideas.md`. This demonstrates the redirect pattern: when a note gets renamed or a project is promoted, leave a stub so existing links don't break. Preferred over tags or properties to keep things simple.
 
+### Theme
+
+The vault uses the [Minimal theme](https://minimal.guide). `.obsidian/snippets/minimal-snippet.css` adds a few personal tweaks on top, the most useful being dimming of any editor pane that isn't in focus. With multiple tabs or panes open it makes it immediately obvious where the cursor is.
+
 ### Claude Code integration
 
 `CLAUDE.md` shows how Claude Code is configured as a vault assistant. It defines the vault structure, note taxonomy, file naming conventions, and behavioural rules so Claude understands the context without needing to be re-briefed.
