@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🏡 Home.md",
+                "file": "📖 Tools Recipes.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "🏡 Home"
+              "title": "📖 Tools Recipes"
             }
           }
         ]
@@ -217,13 +217,15 @@
   },
   "active": "f1c0695101d12e96",
   "lastOpenFiles": [
+    "Useful Bases or Dataview Queries.md",
+    "📖 Tools Recipes.md",
+    "README.md",
+    "🏡 Home.md",
     "Post - The Obsidian setup behind the system.md",
     "2026-03-01.md",
     "Post - The PKM Setup I Settled On After Many Iterations.md",
     "Post - How I Capture Notes Using the 4 Bucket System.md",
-    "🏡 Home.md",
     "Attachments/Example of 4 bucket system note.png",
-    "README.md",
     "Attachments/Bases-demo.gif",
     "LICENSE",
     "NTP drift.md",
@@ -252,8 +254,6 @@
     "🗂 Index.md",
     "Log - 1-1 - Manager 1.md",
     "♟️ Chess.md",
-    "📚 Topics.md",
-    "ACME - Engagement - Initech.md",
     "Attachments/Pasted image 20260216155431.png",
     "Attachments/Pasted image 20260216155412.png",
     "Attachments/55fdc4bff88c2a5e7bb8910d11a3fb8d.png",
