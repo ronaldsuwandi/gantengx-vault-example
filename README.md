@@ -51,6 +51,8 @@ The vault uses the [Minimal theme](https://minimal.guide). `.obsidian/snippets/m
 
 `CLAUDE.md` shows how Claude Code is configured as a vault assistant. It defines the vault structure, note taxonomy, file naming conventions, and behavioural rules so Claude understands the context without needing to be re-briefed.
 
+Note: Claude Code sends file contents to the API when reading them. If your vault contains sensitive or confidential files (e.g. company-prefixed notes), exclude them using the `permissions.deny` setting in `.claude/settings.json`. See the [Claude Code documentation](https://code.claude.com/docs/en/settings#excluding-sensitive-files) for details. Alternatively, keep sensitive files in a separate vault and don't use Claude Code on that vault.
+
 ### Templates
 
 All 8 templates are in `/Templates`. They demonstrate the minimal template philosophy: most notes have no template at all. The ones that do (project notes, health log entries, 1-1s, posts) have only what's strictly necessary.

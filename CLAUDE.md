@@ -60,6 +60,3 @@ ACME=ACME Corp, IND=Indeed, CFLT=Confluent, EYE=Eyeota
 - No tags or topics. Associations are explicit inline links or coarse-grained "See also" sections.
 - Fine-grained links preferred: link in context of a sentence, not just a list of related notes.
 - MOCs are the primary navigation structure.
-
-## Confidentiality
-- Files with `<COMPANY> -` prefix may contain client/employer sensitive content. Do not include their content in any summarised output unless explicitly asked.
